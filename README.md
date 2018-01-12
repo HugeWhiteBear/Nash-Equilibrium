@@ -1,2 +1,6 @@
 # Nash-Equilibrium
-This small program is used for evaluating the value of choices based on game theory
+
+This program is given to 'iyingdi' website with its mobile app so that the language of usage manual and interface is Chinese.
+I am so sorry for any inconvenience due to language of usage manual and interface.
+
+
